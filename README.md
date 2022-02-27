@@ -1,8 +1,12 @@
-#
+# A statically generated blog example using Next.js and WordPress
 
 Followed is guide https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress
 
-# A statically generated blog example using Next.js and WordPress
+This did not go very well at all :/
+
+Firstly I chose the worst free WP hosting at https://wordpress6969.000webhostapp.com/ which throws chrome danger messages (probably their outdated PHP version and large number of free sites being used), then because someone didn't realise to 10 mins later, you need the GraphQL api link, not the the WordPress one, after that it all worked, well bar the images `- No "exportPathMap" found in "undefined". Generating map from "./pages"`
+
+# Documentation
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [WordPress](https://wordpress.org) as the data source.
 
