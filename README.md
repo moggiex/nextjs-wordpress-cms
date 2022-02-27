@@ -10,6 +10,8 @@ https://42956896.nextjs-wordpress-cms.pages.dev/
 
 Well.... it deployed on CloudPages, but issues with images. Now trying
 
+Now built here https://nextjs-wordpress-cms-ma96dyqq2-moggiex.vercel.app/
+
 # Documentation
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [WordPress](https://wordpress.org) as the data source.
